@@ -1,0 +1,10 @@
+version: 2
+
+sources: 
+  - name: source1
+    description: 'source_demo1'
+    database: 'DATABASE1'
+    schema: 'DBT_AMAHARJAN'
+    tables:
+      - name: TABLE_FOR_DBT
+      - name: TABLE_FOR_DBT1
